@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MarianLicht
-- 👀 I’m interested in sports and sailing
 - 🌱 I’m currently learning Python, RAG
 - 📫 How to reach me: E-Mail / LinkedIn
 
